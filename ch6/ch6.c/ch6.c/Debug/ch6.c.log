@@ -1,0 +1,6 @@
+﻿  ch6.c
+c:\users\user\onedrive\桌面\高階程式語言\補救作業\ch6\ch6.c\ch6.c\ch6.c(15): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  c:\users\user\onedrive\桌面\高階程式語言\補救作業\ch6\ch6.c\ch6.c\ch6.c(15): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\users\user\onedrive\桌面\高階程式語言\補救作業\ch6\ch6.c\ch6.c\ch6.c(15): note: 缺少 variadic 引數 2 (其為格式字串 '%s' 所需)
+  c:\users\user\onedrive\桌面\高階程式語言\補救作業\ch6\ch6.c\ch6.c\ch6.c(15): note: 此引數可用為緩衝區大小
+  ch6.c.vcxproj -> C:\Users\user\OneDrive\桌面\高階程式語言\補救作業\ch6\ch6.c\Debug\ch6.c.exe

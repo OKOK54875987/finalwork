@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (補救作業.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  ch1.c
+c:\users\user\onedrive\桌面\高階程式語言\補救作業\補救作業\補救作業\ch1.c(7): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  補救作業.vcxproj -> C:\Users\user\OneDrive\桌面\高階程式語言\補救作業\補救作業\Debug\ch1.exe
